@@ -1,0 +1,12 @@
+
+.root {
+    -fx-font-size: 14pt;
+}
+
+.button {
+    -fx-background-color: gold;
+}
+
+.button:hover {
+    -fx-background-color: gold;
+}
